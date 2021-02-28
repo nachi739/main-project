@@ -1,0 +1,3 @@
+[submodule "sub-priject"]
+	path = sub-priject
+	url = git@github.com:nachi739/sub-priject.git
